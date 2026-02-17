@@ -41,7 +41,7 @@ The dashboard answers the following business questions:
 ## ⚙️ Project Process
 
 **1️⃣ Data Collection**
-Sales data was compiled from Toyota transaction records covering January–June 2025.
+- Sales data was compiled from Toyota transaction records covering January–June 2025.
 
 **2️⃣ Data Cleaning**
 - Removed duplicate entries
@@ -57,6 +57,7 @@ Sales data was compiled from Toyota transaction records covering January–June 
 - Calculated total revenue & averages
 
 **4️⃣ Data Visualization**
+--
 Dashboard built using Excel featuring:
 - KPI Cards
 - Bar Charts
@@ -89,6 +90,7 @@ Dashboard built using Excel featuring:
 This indicates strong mid-year automobile sales performance.
 
 **🚘 Car Model Performance**
+--
 Top-purchased Toyota models include:
 - Land Cruiser (Highest)
 - Yaris
@@ -101,6 +103,7 @@ Top-purchased Toyota models include:
 SUVs and utility vehicles dominate customer demand.
 
 **🌍 Sales by Country**
+--
 Countries with the highest purchases:
 - Germany (Highest)
 - Australia
@@ -114,6 +117,7 @@ Countries with the highest purchases:
 This shows Toyota’s strong global market penetration.
 
 **📅 Monthly Sales Trend**
+--
 Sales performance across months:
 - April recorded the highest sales.
 - January followed closely.
@@ -121,6 +125,7 @@ Sales performance across months:
 - Overall trend shows moderate fluctuations.
 
 **💳 Mode of Payment**
+--
 Payment distribution:
 - Bank Transfer — 20%
 - Cash — 20%
@@ -131,7 +136,6 @@ Mobile payments slightly lead, showing digital adoption growth.
 
 **👥 Customer Gender Distribution**
 - Female Buyers: 1,552
-
 - Male Buyers: 1,448
 Female customers purchased slightly more vehicles than males.
 
@@ -145,5 +149,5 @@ The Toyota Car Sales Dashboard delivers actionable insights into sales performan
 - Germany is the top purchasing country.
 - Mobile payments are the most used payment method.
 - Female buyers slightly dominate purchases.
-- 
+
 This dashboard demonstrates how automobile companies can leverage data analytics to optimize sales strategy, customer targeting, and regional expansion.
