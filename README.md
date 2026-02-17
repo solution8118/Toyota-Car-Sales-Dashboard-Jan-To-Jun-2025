@@ -40,25 +40,23 @@ The dashboard answers the following business questions:
 
 ## ⚙️ Project Process
 
-1️⃣ Data Collection
-
+**1️⃣ Data Collection**
 Sales data was compiled from Toyota transaction records covering January–June 2025.
 
-2️⃣ Data Cleaning
+**2️⃣ Data Cleaning**
 - Removed duplicate entries
 - Standardized car model names
 - Cleaned country labels
 - Checked missing values
 - Formatted revenue fields
 
-3️⃣ Data Transformation
+**3️⃣ Data Transformation**
 - Aggregated monthly sales
 - Grouped purchases by country
 - Categorized payment methods
 - Calculated total revenue & averages
 
-4️⃣ Data Visualization
-
+**4️⃣ Data Visualization**
 Dashboard built using Excel featuring:
 - KPI Cards
 - Bar Charts
@@ -84,120 +82,68 @@ Dashboard built using Excel featuring:
 
 ## 🔍 Key Insights
 
-💰 Revenue & Sales Volume
+**💰 Revenue & Sales Volume**
 - Total Revenue: $150,282,946
 - Total Cars Sold: 6,012
 - Average Units Sold: 2.00
 This indicates strong mid-year automobile sales performance.
 
-🚘 Car Model Performance
+**🚘 Car Model Performance**
 Top-purchased Toyota models include:
 - Land Cruiser (Highest)
 - Yaris
 - Hilux
-
-RAV4
-
-Highlander
-
-Camry
-
-Corolla
-
-Avalon
-
-
-
+- RAV4
+- Highlander
+- Camry
+- Corolla
+- Avalon
 SUVs and utility vehicles dominate customer demand.
 
-🌍 Sales by Country
-
-
+**🌍 Sales by Country**
 Countries with the highest purchases:
-
-Germany (Highest)
-
-Australia
-
-Brazil
-
-Japan
-
-USA
-
-India
-
-UK
-
-South Africa
-
-Nigeria
-
-
-
+- Germany (Highest)
+- Australia
+- Brazil
+- Japan
+- USA
+- India
+- UK
+- South Africa
+- Nigeria
 This shows Toyota’s strong global market penetration.
 
-📅 Monthly Sales Trend
-
-
+**📅 Monthly Sales Trend**
 Sales performance across months:
+- April recorded the highest sales.
+- January followed closely.
+- May had the lowest sales volume.
+- Overall trend shows moderate fluctuations.
 
-April recorded the highest sales.
-
-January followed closely.
-
-May had the lowest sales volume.
-
-Overall trend shows moderate fluctuations.
-
-💳 Mode of Payment
-
-
+**💳 Mode of Payment**
 Payment distribution:
-
-Bank Transfer — 20%
-
-Cash — 20%
-
-Credit Card — 19%
-
-Financing — 20%
-
-Mobile Payment — 21% (Highest)
-
-
-
+- Bank Transfer — 20%
+- Cash — 20%
+- Credit Card — 19%
+- Financing — 20%
+- Mobile Payment — 21% (Highest)
 Mobile payments slightly lead, showing digital adoption growth.
 
-👥 Customer Gender Distribution
-Female Buyers: 1,552
+**👥 Customer Gender Distribution**
+- Female Buyers: 1,552
 
-Male Buyers: 1,448
-
-
-
+- Male Buyers: 1,448
 Female customers purchased slightly more vehicles than males.
 
-🧾 Conclusion
-
-
+## 🧾 Conclusion
 The Toyota Car Sales Dashboard delivers actionable insights into sales performance for the first half of 2025.
 
-
-
-Key Takeaways:
-Over $150M revenue generated in 6 months.
-
-6,012 vehicles sold globally.
-
-Land Cruiser leads model demand.
-
-Germany is the top purchasing country.
-
-Mobile payments are the most used payment method.
-
-Female buyers slightly dominate purchases.
-
-
-
+**Key Takeaways:**
+- Over $150M revenue generated in 6 months.
+- 6,012 vehicles sold globally.
+- Land Cruiser leads model demand.
+- Germany is the top purchasing country.
+- Mobile payments are the most used payment method.
+- Female buyers slightly dominate purchases.
+- 
 This dashboard demonstrates how automobile companies can leverage data analytics to optimize sales strategy, customer targeting, and regional expansion.
